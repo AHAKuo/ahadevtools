@@ -1,0 +1,45 @@
+name: Update pluginmaster
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - plugins.json
+      - scripts/**
+      - .github/workflows/update-pluginmaster.yml
+  schedule:
+    # Every 6 hours: picks up new plugin releases without manual steps.
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [plugin-released]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pluginmaster
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build pluginmaster.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/build_pluginmaster.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- pluginmaster.json; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pluginmaster.json
+          git commit -m "Update pluginmaster.json"
+          git push
