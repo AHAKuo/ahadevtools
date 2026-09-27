@@ -1,6 +1,6 @@
 # ahadevtools
 
-Custom Dalamud plugin repository for AHAKuo's FFXIV plugins.
+Custom Dalamud plugin repository for ahadev's FFXIV plugins.
 
 ## Add the repository
 
