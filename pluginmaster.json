@@ -1,9 +1,9 @@
 [
   {
-    "Author": "AHAKuo",
+    "Author": "ahadev",
     "Name": "Polite Eorzea",
     "InternalName": "PoliteEorzea",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.1.1.0",
     "Description": "Polite Eorzea sends a greeting or a farewell to your party (or alliance) from your own list of messages.\n\n• /hi and /bye send a random greeting or farewell right away.\n• Auto mode greets when you enter an instanced duty and says thanks when it completes.\n• Picks party or alliance chat automatically; skips solo duties.\n• Fully editable message lists, delays and triggers in /polite.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/AHAKuo/FFXIVPoliteEorzea",
@@ -29,11 +29,11 @@
     "LoadPriority": 0,
     "Punchline": "Say hello and thank your party with one command, or automatically in duties.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/AHAKuo/FFXIVPoliteEorzea/releases/download/v0.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AHAKuo/FFXIVPoliteEorzea/releases/download/v0.1.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/AHAKuo/FFXIVPoliteEorzea/releases/download/v0.1.0/latest.zip",
+    "DownloadLinkInstall": "https://github.com/AHAKuo/FFXIVPoliteEorzea/releases/download/v0.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AHAKuo/FFXIVPoliteEorzea/releases/download/v0.1.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AHAKuo/FFXIVPoliteEorzea/releases/download/v0.1.1/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 1790544822,
+    "LastUpdate": 1790545439,
     "IsHide": false,
     "IsTestingExclusive": false,
     "IconUrl": "https://raw.githubusercontent.com/AHAKuo/FFXIVPoliteEorzea/main/images/icon.png"
