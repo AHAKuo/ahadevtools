@@ -18,6 +18,7 @@ Custom Dalamud plugin repository for ahadev's FFXIV plugins.
 | Plugin | Description | Source |
 |---|---|---|
 | Polite Eorzea | Say hello and thank your party with `/hi` and `/bye`, or automatically in duties. | [FFXIVPoliteEorzea](https://github.com/AHAKuo/FFXIVPoliteEorzea) |
+| BladUI | Baldur's Gate-style inventory: multiselect, bulk move, one-click armoury cleanup. | [FFXIVBladUI](https://github.com/AHAKuo/FFXIVBladUI) |
 
 ## How it works
 
