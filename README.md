@@ -19,6 +19,7 @@ Custom Dalamud plugin repository for ahadev's FFXIV plugins.
 |---|---|---|
 | Polite Eorzea | Say hello and thank your party with `/hi` and `/bye`, or automatically in duties. | [FFXIVPoliteEorzea](https://github.com/AHAKuo/FFXIVPoliteEorzea) |
 | BladUI | Baldur's Gate-style inventory: multiselect, bulk move, one-click armoury cleanup. | [FFXIVBladUI](https://github.com/AHAKuo/FFXIVBladUI) |
+| XMapper | Fill your cross hotbars for any job in one click, following a layout bias. | [FFXIVXMapper](https://github.com/AHAKuo/FFXIVXMapper) |
 
 ## How it works
 
