@@ -84,8 +84,8 @@
     "Author": "ahadev",
     "Name": "XMapper",
     "InternalName": "XMapper",
-    "AssemblyVersion": "0.1.4.0",
-    "Description": "XMapper maps the current class's actions onto Cross Hotbar sets according to a \"bias\": a preset that says which kind of action lands on which pad.\n\nâ€¢ Single-target attacks on the right face buttons, AoE on the left, abilities on the d-pads.\nâ€¢ Role actions on set 2's right half, rare long-cooldown actions on set 2's left half.\nâ€¢ Overflow continues onto later sets with the same layout.\nâ€¢ Works for combat jobs, crafters and gatherers. Ships with editable biases; make your own.\nâ€¢ Preview the whole layout before writing a single slot.",
+    "AssemblyVersion": "0.2.0.0",
+    "Description": "XMapper maps the current class's actions onto Cross Hotbar sets according to a \"bias\": a preset that says which kind of action lands on which pad.\r\n\r\nâ€¢ Single-target attacks on the right face buttons, AoE on the left, abilities on the d-pads.\r\nâ€¢ Role actions on set 2's right half, rare long-cooldown actions on set 2's left half.\r\nâ€¢ Overflow continues onto later sets with the same layout.\r\nâ€¢ Works for combat jobs, crafters and gatherers. Ships with editable biases; make your own.\r\nâ€¢ Preview the whole layout before writing a single slot.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/AHAKuo/FFXIVXMapper",
     "Tags": [
@@ -110,11 +110,11 @@
     "IconUrl": "https://raw.githubusercontent.com/AHAKuo/FFXIVXMapper/main/images/icon.png",
     "Punchline": "Fill your cross hotbars for any job in one click, following a layout bias you choose.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/AHAKuo/FFXIVXMapper/releases/download/v0.1.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AHAKuo/FFXIVXMapper/releases/download/v0.1.4/latest.zip",
-    "DownloadLinkTesting": "https://github.com/AHAKuo/FFXIVXMapper/releases/download/v0.1.4/latest.zip",
-    "DownloadCount": 6,
-    "LastUpdate": 1790714202,
+    "DownloadLinkInstall": "https://github.com/AHAKuo/FFXIVXMapper/releases/download/v0.2.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AHAKuo/FFXIVXMapper/releases/download/v0.2.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AHAKuo/FFXIVXMapper/releases/download/v0.2.0/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 1791234159,
     "IsHide": false,
     "IsTestingExclusive": false
   }
