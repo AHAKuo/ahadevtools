@@ -36,7 +36,7 @@
     "DownloadLinkInstall": "https://github.com/AHAKuo/FFXIVBladUI/releases/download/v0.3.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/AHAKuo/FFXIVBladUI/releases/download/v0.3.2/latest.zip",
     "DownloadLinkTesting": "https://github.com/AHAKuo/FFXIVBladUI/releases/download/v0.3.2/latest.zip",
-    "DownloadCount": 7,
+    "DownloadCount": 8,
     "LastUpdate": 1790547392,
     "IsHide": false,
     "IsTestingExclusive": false
@@ -113,7 +113,7 @@
     "DownloadLinkInstall": "https://github.com/AHAKuo/FFXIVXMapper/releases/download/v0.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/AHAKuo/FFXIVXMapper/releases/download/v0.2.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/AHAKuo/FFXIVXMapper/releases/download/v0.2.1/latest.zip",
-    "DownloadCount": 1,
+    "DownloadCount": 2,
     "LastUpdate": 1791299540,
     "IsHide": false,
     "IsTestingExclusive": false
