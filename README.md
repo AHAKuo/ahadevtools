@@ -20,6 +20,8 @@ Custom Dalamud plugin repository for ahadev's FFXIV plugins.
 | Polite Eorzea | Say hello and thank your party with `/hi` and `/bye`, or automatically in duties. | [FFXIVPoliteEorzea](https://github.com/AHAKuo/FFXIVPoliteEorzea) |
 | BladUI | Baldur's Gate-style inventory: multiselect, bulk move, one-click armoury cleanup. | [FFXIVBladUI](https://github.com/AHAKuo/FFXIVBladUI) |
 | XMapper | Fill your cross hotbars for any job in one click, following a layout bias. | [FFXIVXMapper](https://github.com/AHAKuo/FFXIVXMapper) |
+| Lamina | Virtual designs: layer Glamourer designs, Penumbra mods, Honorific titles and Moodles through rulesets, applied with one redraw. | [FFXIVLamina](https://github.com/AHAKuo/FFXIVLamina) |
+| Vitrine | Browse, organise and try on your Penumbra mods: auto-classified catalog with photos, designs with variants, full-set previews. | [FFXIVVitrine](https://github.com/AHAKuo/FFXIVVitrine) |
 
 ## How it works
 
