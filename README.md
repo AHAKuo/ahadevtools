@@ -22,6 +22,7 @@ Custom Dalamud plugin repository for ahadev's FFXIV plugins.
 | XMapper | Fill your cross hotbars for any job in one click, following a layout bias. | [FFXIVXMapper](https://github.com/AHAKuo/FFXIVXMapper) |
 | Lamina | Virtual designs: layer Glamourer designs, Penumbra mods, Honorific titles and Moodles through rulesets, applied with one redraw. | [FFXIVLamina](https://github.com/AHAKuo/FFXIVLamina) |
 | Vitrine | Browse, organise and try on your Penumbra mods: auto-classified catalog with photos, designs with variants, full-set previews. | [FFXIVVitrine](https://github.com/AHAKuo/FFXIVVitrine) |
+| I Can't Be Here | Leave instances automatically when the duty is complete, with a grace period; toggle from the server info bar. | [FFXIVICantBeHere](https://github.com/AHAKuo/FFXIVICantBeHere) |
 
 ## How it works
 
